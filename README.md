@@ -1,2 +1,2 @@
 # geribildirim
-vizesizgezi.com için geri bildirim reposu
+[vizesizgezi.com](https://www.vizesizgezi.com) için geri bildirim reposu
