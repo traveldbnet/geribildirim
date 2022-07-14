@@ -1,2 +1,2 @@
-# geribildirim
-[vizesizgezi.com](https://www.vizesizgezi.com) için geri bildirim reposu
+# feedback
+feedback repo for [traveldb.net](https://www.traveldb.net).
