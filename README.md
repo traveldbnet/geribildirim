@@ -9,4 +9,4 @@ discord'da yer alan oneriler kanalına [buradan](https://discord.com/channels/92
 
 ## öneriler
 
-önerileri [buraya](https://github.com/visamonk/feedback/discussions) gönderebilirsiniz.
+önerileri [buraya](https://github.com/visamonk/geribildirim/discussions) gönderebilirsiniz.
