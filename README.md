@@ -5,8 +5,8 @@ discord'da yer alan oneriler kanalına [buradan](https://discord.com/channels/92
 
 ## hata bildirileri
 
-[buradan](https://github.com/traveldbnet/geribildirim/issues) yapabilirsiniz.
+[buradan](https://github.com/visamonk/geribildirim/issues) yapabilirsiniz.
 
 ## öneriler
 
-önerileri [buraya](https://github.com/wowtrack/feedback/discussions) gönderebilirsiniz.
+önerileri [buraya](https://github.com/visamonk/feedback/discussions) gönderebilirsiniz.
